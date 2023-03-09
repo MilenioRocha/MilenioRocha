@@ -4,9 +4,13 @@
 
 💼 Atualmente trabalho como Analista de Suporte de Sistemas
 
-🧑‍💻 Estudante e Projetista de Arduino
+👨‍🏫 Professor de Desenvolvimento de Sistemas
+
+🧑‍💻 Projetista de Arduino
 
 🔒 Estudante de Segurança e DevOps
+
+📱 Criador de Conteúdo Sobre Arduino Instagram: mileniorocha
 
 ##
 
