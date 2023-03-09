@@ -10,7 +10,7 @@
 
 🔒 Estudante de Segurança e DevOps
 
-📱 Criador de Conteúdo Sobre Arduino Instagram: mileniorocha
+📱 Criador de Conteúdo Sobre Arduino | Instagram: mileniorocha
 
 ##
 
